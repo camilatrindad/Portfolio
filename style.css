@@ -59,3 +59,20 @@ body {
             color: #693f88;
         font-weight: bold;
     }
+
+    .contato {
+    margin-top: 60px;
+    padding: 30px;
+    text-align: center;
+    border-top: 1px solid #333;
+}
+
+.contato a {
+    color: #7dd3fc;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.contato a:hover {
+    text-decoration: underline;
+}
